@@ -1,0 +1,27 @@
+{
+	"people": [
+		{
+			"people_id": "12345",
+			"name": "Sam Rubin",
+			"job_title": "Software Engineer",
+			"avatar_file": null,
+			"department": {"name":"Engineering","id":"1234"},
+			"skills": [],
+			"email":  "USER_EMAIL",
+			"description":  null,
+			"mobile":  null,
+			"telephone":  null,
+			"im":  null,
+			"wk_day_hrs":  null,
+      "non_wk_days":  null,
+			"employee_type":  1,
+			"contractor":  0,
+			"access_rights": 1,
+			"access_id": 12345,
+			"department_filter_id": null,
+			"auto_email": -1,
+			"created": "2016-03-28",
+			"active":  1
+		}
+  ]
+}

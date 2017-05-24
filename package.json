@@ -1,0 +1,14 @@
+{
+  "name": "Float API Examples",
+  "version": "1.0.0",
+  "description": "An example of API usgae for the Float People Management Application",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Rubin (smrubin)",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.1",
+    "csvtojson": "^1.0.0"
+  }
+}

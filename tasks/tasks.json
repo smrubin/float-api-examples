@@ -1,0 +1,36 @@
+
+{
+"start_doy": "234",
+		"start_yr": "2016",
+		"people": [
+			{
+				"people_id": "1234",
+				"tasks": [
+			{
+				"task_id": "12354",
+				"task_name": "Project Phase 1",
+				"task_notes": null,
+				"people_id": "123",
+				"person_name": "Sam Rubin",
+				"project_id": "32434",
+				"project_name": "Float API Example",
+				"client_name": "smrubin",
+				"start_date": "2015-11-16",
+				"start_yr": "2016",
+				"end_date": "2016-08-31",
+		
+				"hours_pd": "8.0",
+				"total_hours": "1664.0",
+				"task_cal_days": "290",
+				"repeat_state": 0,
+				"repeat_end": null,
+				"created_by": "Sam Rubin",
+				"creator_id": "32423",
+				"modified_by": null,
+				"priority": 0,
+				"tentative": 0
+			}
+				]
+			}
+		]
+}

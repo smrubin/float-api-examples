@@ -1,6 +1,6 @@
 # Float People Management API Examples
 
-Obtain CSV of data, parse and convert to JSON, then upload to Float via API.
+Obtain CSV of data, parse and convert to JSON, then upload to Float Scheduler via API.
 
 ## References
 
@@ -17,4 +17,4 @@ Add Projects
 `node ./projects/addprojects`
 
 Add Schedules
-`TBD`
+`node ./tasks/addtasks`
